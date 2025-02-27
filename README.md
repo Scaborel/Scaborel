@@ -37,13 +37,12 @@ Hi there, i'm Anderson Scardini.
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="logo-express">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-postgres">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo-mongo">
+<br>
+<br>
 
 <br>
 <br>
-[![Anderson stats](https://github-readme-stats.vercel.app/api?username=Scaborel)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scaborel)
-<br>
-<br>
-![View counter](https://komarev.com/ghpvc/?username=Scaborel)
+
